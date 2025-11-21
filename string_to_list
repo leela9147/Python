@@ -1,0 +1,3 @@
+text = "Lasya" 
+char_list = list(text) 
+print(char_list)  
